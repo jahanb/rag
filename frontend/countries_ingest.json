@@ -1,0 +1,560 @@
+[
+  {
+    "title": "Afghanistan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Afghanistan is a country in South Asia. Capital: Kabul. Population: approximately 43,000,000 people. Area: 652,230 km². Currency: Afghan Afghani (AFN). Official language(s): Pashto, Dari. Landlocked country in South-Central Asia. Predominantly mountainous with the Hindu Kush range. Economy largely agricultural with natural resources including natural gas, coal, copper, and lithium."
+  },
+  {
+    "title": "Albania",
+    "source": "countries-database",
+    "url": "",
+    "content": "Albania is a country in Europe. Capital: Tirana. Population: approximately 2,800,000 people. Area: 28,748 km². Currency: Albanian Lek (ALL). Official language(s): Albanian. Country in Southeast Europe on the Adriatic and Ionian Seas. Known for mountains, beaches, and ancient ruins. NATO member since 2009 and EU candidate."
+  },
+  {
+    "title": "Algeria",
+    "source": "countries-database",
+    "url": "",
+    "content": "Algeria is a country in Africa. Capital: Algiers. Population: approximately 45,000,000 people. Area: 2,381,741 km². Currency: Algerian Dinar (DZD). Official language(s): Arabic, Tamazight. Largest country in Africa. Sahara Desert covers about 90% of the country. Major oil and gas producer. Gained independence from France in 1962."
+  },
+  {
+    "title": "Andorra",
+    "source": "countries-database",
+    "url": "",
+    "content": "Andorra is a country in Europe. Capital: Andorra la Vella. Population: approximately 77,000 people. Area: 468 km². Currency: Euro (EUR). Official language(s): Catalan. Small microstate in the Pyrenees. One of the smallest countries in Europe. Economy based on tourism and retail. Andorra la Vella is the highest capital in Europe at 1023 meters."
+  },
+  {
+    "title": "Angola",
+    "source": "countries-database",
+    "url": "",
+    "content": "Angola is a country in Africa. Capital: Luanda. Population: approximately 34,000,000 people. Area: 1,246,700 km². Currency: Angolan Kwanza (AOA). Official language(s): Portuguese. Country on the west coast of Southern Africa. One of the largest oil producers in sub-Saharan Africa. Gained independence from Portugal in 1975."
+  },
+  {
+    "title": "Argentina",
+    "source": "countries-database",
+    "url": "",
+    "content": "Argentina is a country in South America. Capital: Buenos Aires. Population: approximately 46,000,000 people. Area: 2,780,400 km². Currency: Argentine Peso (ARS). Official language(s): Spanish. Second largest country in South America. Known for Pampas grasslands, Patagonia, and Andes mountains. Major agricultural exporter of beef, soybeans, and wheat. Won FIFA World Cup in 1978, 1986, and 2022."
+  },
+  {
+    "title": "Armenia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Armenia is a country in Asia. Capital: Yerevan. Population: approximately 3,000,000 people. Area: 29,743 km². Currency: Armenian Dram (AMD). Official language(s): Armenian. Landlocked country in the South Caucasus. One of the world's oldest countries. First nation to adopt Christianity as state religion in 301 AD. Yerevan is one of the oldest continuously inhabited cities."
+  },
+  {
+    "title": "Australia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Australia is a country in Oceania. Capital: Canberra. Population: approximately 26,000,000 people. Area: 7,692,024 km². Currency: Australian Dollar (AUD). Official language(s): English. World's sixth-largest country and largest in Oceania. Known for diverse wildlife including kangaroos and koalas. The Great Barrier Reef is the world's largest coral reef system. Major exporter of iron ore, coal, and natural gas."
+  },
+  {
+    "title": "Austria",
+    "source": "countries-database",
+    "url": "",
+    "content": "Austria is a country in Europe. Capital: Vienna. Population: approximately 9,100,000 people. Area: 83,871 km². Currency: Euro (EUR). Official language(s): German. Landlocked country in Central Europe. Vienna is famous for classical music, opera, and art. EU and NATO member. Austrian Alps cover much of the western and central parts."
+  },
+  {
+    "title": "Azerbaijan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Azerbaijan is a country in Asia. Capital: Baku. Population: approximately 10,300,000 people. Area: 86,600 km². Currency: Azerbaijani Manat (AZN). Official language(s): Azerbaijani. Country in the South Caucasus at the crossroads of Eastern Europe and Western Asia. Baku is the largest city on the Caspian Sea. Major oil and gas producer. Hosts Formula 1 Azerbaijan Grand Prix."
+  },
+  {
+    "title": "Bahrain",
+    "source": "countries-database",
+    "url": "",
+    "content": "Bahrain is a country in Middle East. Capital: Manama. Population: approximately 1,500,000 people. Area: 778 km². Currency: Bahraini Dinar (BHD). Official language(s): Arabic. Small island nation in the Persian Gulf. Archipelago of 33 islands. One of the first Gulf states to discover oil. Hosts Formula 1 Bahrain Grand Prix."
+  },
+  {
+    "title": "Bangladesh",
+    "source": "countries-database",
+    "url": "",
+    "content": "Bangladesh is a country in South Asia. Capital: Dhaka. Population: approximately 170,000,000 people. Area: 147,570 km². Currency: Bangladeshi Taka (BDT). Official language(s): Bengali. One of the most densely populated countries in the world. World's second-largest garment exporter. The Sundarbans, world's largest mangrove forest, is shared with India. Prone to flooding due to low-lying delta geography."
+  },
+  {
+    "title": "Belgium",
+    "source": "countries-database",
+    "url": "",
+    "content": "Belgium is a country in Europe. Capital: Brussels. Population: approximately 11,600,000 people. Area: 30,528 km². Currency: Euro (EUR). Official language(s): Dutch, French, German. Country in Western Europe known for medieval towns. Brussels is the de facto capital of the EU and hosts NATO headquarters. Famous for chocolate, waffles, beer, and fries."
+  },
+  {
+    "title": "Bolivia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Bolivia is a country in South America. Capital: Sucre (constitutional), La Paz (seat of government). Population: approximately 12,100,000 people. Area: 1,098,581 km². Currency: Boliviano (BOB). Official language(s): Spanish, Quechua, Aymara. Landlocked country in central South America. La Paz is the world's highest administrative capital at 3640 meters. Home to the world's largest salt flat, the Salar de Uyuni. Has vast lithium deposits."
+  },
+  {
+    "title": "Bosnia and Herzegovina",
+    "source": "countries-database",
+    "url": "",
+    "content": "Bosnia and Herzegovina is a country in Europe. Capital: Sarajevo. Population: approximately 3,300,000 people. Area: 51,197 km². Currency: Convertible Mark (BAM). Official language(s): Bosnian, Croatian, Serbian. Country in Southeast Europe on the Balkan Peninsula. Sarajevo hosted the 1984 Winter Olympics. Went through a devastating war from 1992 to 1995. EU membership candidate."
+  },
+  {
+    "title": "Brazil",
+    "source": "countries-database",
+    "url": "",
+    "content": "Brazil is a country in South America. Capital: Brasilia. Population: approximately 215,000,000 people. Area: 8,515,767 km². Currency: Brazilian Real (BRL). Official language(s): Portuguese. Largest country in South America and fifth largest in the world. Amazon rainforest covers about 60% of the country. World's largest coffee producer. Famous for Carnival and samba. Won FIFA World Cup five times."
+  },
+  {
+    "title": "Bulgaria",
+    "source": "countries-database",
+    "url": "",
+    "content": "Bulgaria is a country in Europe. Capital: Sofia. Population: approximately 6,500,000 people. Area: 110,879 km². Currency: Bulgarian Lev (BGN). Official language(s): Bulgarian. Country in Southeast Europe on the Balkan Peninsula. EU member since 2007, NATO member since 2004. Rose Valley produces 85% of the world's rose oil. Rich history dating to 681 AD."
+  },
+  {
+    "title": "Cambodia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Cambodia is a country in Southeast Asia. Capital: Phnom Penh. Population: approximately 17,000,000 people. Area: 181,035 km². Currency: Cambodian Riel (KHR). Official language(s): Khmer. Country in Southeast Asia. Famous for Angkor Wat, world's largest religious monument built in the 12th century. Experienced the Khmer Rouge genocide from 1975 to 1979. Economy based on garments, tourism, and agriculture."
+  },
+  {
+    "title": "Canada",
+    "source": "countries-database",
+    "url": "",
+    "content": "Canada is a country in North America. Capital: Ottawa. Population: approximately 38,000,000 people. Area: 9,984,670 km². Currency: Canadian Dollar (CAD). Official language(s): English, French. Second-largest country in the world by total area. Known for vast wilderness including Rocky Mountains, tundra, and boreal forests. Major producer of oil, natural gas, minerals, and timber. Consistently ranked among the world's best countries to live in."
+  },
+  {
+    "title": "Chile",
+    "source": "countries-database",
+    "url": "",
+    "content": "Chile is a country in South America. Capital: Santiago. Population: approximately 19,500,000 people. Area: 756,102 km². Currency: Chilean Peso (CLP). Official language(s): Spanish. Long narrow country stretching 4300 km from north to south. Atacama Desert in the north is one of the driest places on Earth. World's largest copper producer. Significant lithium reserves."
+  },
+  {
+    "title": "China",
+    "source": "countries-database",
+    "url": "",
+    "content": "China is a country in East Asia. Capital: Beijing. Population: approximately 1,400,000,000 people. Area: 9,596,960 km². Currency: Chinese Yuan (CNY). Official language(s): Mandarin Chinese. World's most populous country and third-largest by area. Second-largest economy by nominal GDP. Permanent member of UN Security Council. Known for the Great Wall, Forbidden City, and Terracotta Army. World's largest exporter since 2009."
+  },
+  {
+    "title": "Colombia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Colombia is a country in South America. Capital: Bogota. Population: approximately 52,000,000 people. Area: 1,141,748 km². Currency: Colombian Peso (COP). Official language(s): Spanish. Country in northwestern South America with coastlines on both Pacific Ocean and Caribbean Sea. World's largest producer of emeralds and major coffee producer. Home to about 10% of the world's plant and animal species."
+  },
+  {
+    "title": "Croatia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Croatia is a country in Europe. Capital: Zagreb. Population: approximately 3,900,000 people. Area: 56,594 km². Currency: Euro (EUR). Official language(s): Croatian. Country in Southeast Europe on the Adriatic Sea. EU member since 2013. Famous for Dalmatian Coast, Plitvice Lakes, and Dubrovnik. Reached FIFA World Cup final in 2018."
+  },
+  {
+    "title": "Cuba",
+    "source": "countries-database",
+    "url": "",
+    "content": "Cuba is a country in Caribbean. Capital: Havana. Population: approximately 11,300,000 people. Area: 109,884 km². Currency: Cuban Peso (CUP). Official language(s): Spanish. Largest island in the Caribbean. Socialist revolution in 1959 led by Fidel Castro. Known for classic cars, rum, cigars, and salsa music. US trade embargo in place since 1960."
+  },
+  {
+    "title": "Czech Republic",
+    "source": "countries-database",
+    "url": "",
+    "content": "Czech Republic is a country in Europe. Capital: Prague. Population: approximately 10,900,000 people. Area: 78,866 km². Currency: Czech Koruna (CZK). Official language(s): Czech. Landlocked country in Central Europe also known as Czechia. Prague is one of the most visited cities in Europe. NATO and EU member. One of the most prosperous countries in Central and Eastern Europe. Famous for beer consumption per capita."
+  },
+  {
+    "title": "Denmark",
+    "source": "countries-database",
+    "url": "",
+    "content": "Denmark is a country in Europe. Capital: Copenhagen. Population: approximately 5,900,000 people. Area: 42,924 km². Currency: Danish Krone (DKK). Official language(s): Danish. Nordic country in Northern Europe. Consistently ranked as one of the happiest countries in the world. Pioneer in wind energy and environmental sustainability. Constitutional monarchy. LEGO was invented here in 1932."
+  },
+  {
+    "title": "Egypt",
+    "source": "countries-database",
+    "url": "",
+    "content": "Egypt is a country in Africa. Capital: Cairo. Population: approximately 105,000,000 people. Area: 1,001,449 km². Currency: Egyptian Pound (EGP). Official language(s): Arabic. Transcontinental country in northeast Africa and Sinai Peninsula. The Nile River runs through it. Home to the Great Pyramid of Giza, the last remaining wonder of the ancient world. The Suez Canal connects the Red Sea and Mediterranean Sea."
+  },
+  {
+    "title": "Ethiopia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ethiopia is a country in Africa. Capital: Addis Ababa. Population: approximately 126,000,000 people. Area: 1,104,300 km². Currency: Ethiopian Birr (ETB). Official language(s): Amharic. Most populous landlocked country in the world. Only African country never colonized by a European power. Birthplace of coffee. Addis Ababa hosts the African Union headquarters."
+  },
+  {
+    "title": "Finland",
+    "source": "countries-database",
+    "url": "",
+    "content": "Finland is a country in Europe. Capital: Helsinki. Population: approximately 5,500,000 people. Area: 338,424 km². Currency: Euro (EUR). Official language(s): Finnish, Swedish. Nordic country in Northern Europe. Has over 187000 lakes, known as the Land of a Thousand Lakes. Consistently ranked one of the happiest countries in the world. Joined NATO in 2023. Northern Lights visible in Finnish Lapland."
+  },
+  {
+    "title": "France",
+    "source": "countries-database",
+    "url": "",
+    "content": "France is a country in Europe. Capital: Paris. Population: approximately 68,000,000 people. Area: 643,801 km². Currency: Euro (EUR). Official language(s): French. Largest country in the EU by area. Paris is known for the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Permanent member of the UN Security Council. World's most visited country with about 90 million tourists per year. Won FIFA World Cup in 1998 and 2018."
+  },
+  {
+    "title": "Germany",
+    "source": "countries-database",
+    "url": "",
+    "content": "Germany is a country in Europe. Capital: Berlin. Population: approximately 84,000,000 people. Area: 357,114 km². Currency: Euro (EUR). Official language(s): German. Most populous EU member state. Largest economy in Europe and fourth largest in the world. Major industrial power known for BMW, Mercedes-Benz, Volkswagen, and Porsche. Founding member of the EU and NATO. Berlin Wall fell in 1989 leading to reunification in 1990."
+  },
+  {
+    "title": "Ghana",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ghana is a country in Africa. Capital: Accra. Population: approximately 32,000,000 people. Area: 238,533 km². Currency: Ghanaian Cedi (GHS). Official language(s): English. Country in West Africa. First sub-Saharan African country to gain independence in 1957. Major producer of gold and cocoa. One of the most stable democracies in Africa. Lake Volta is one of the world's largest artificial lakes."
+  },
+  {
+    "title": "Greece",
+    "source": "countries-database",
+    "url": "",
+    "content": "Greece is a country in Europe. Capital: Athens. Population: approximately 10,700,000 people. Area: 131,957 km². Currency: Euro (EUR). Official language(s): Greek. Country in Southeast Europe. Has over 6000 islands. Considered the cradle of Western civilization, democracy, and philosophy. Athens hosted the first modern Olympic Games in 1896. The Acropolis and Parthenon are UNESCO World Heritage Sites."
+  },
+  {
+    "title": "Hungary",
+    "source": "countries-database",
+    "url": "",
+    "content": "Hungary is a country in Europe. Capital: Budapest. Population: approximately 9,700,000 people. Area: 93,028 km². Currency: Hungarian Forint (HUF). Official language(s): Hungarian. Landlocked country in Central Europe. Budapest is divided by the Danube River into Buda and Pest. EU member since 2004, NATO member since 1999. Known for thermal baths and paprika cuisine."
+  },
+  {
+    "title": "India",
+    "source": "countries-database",
+    "url": "",
+    "content": "India is a country in South Asia. Capital: New Delhi. Population: approximately 1,430,000,000 people. Area: 3,287,263 km². Currency: Indian Rupee (INR). Official language(s): Hindi, English. World's most populous country and seventh-largest by area. Fifth-largest economy and largest democracy. Known for diverse culture, religions, and cuisine. IT sector is globally significant. The Taj Mahal is one of the world's most iconic monuments."
+  },
+  {
+    "title": "Indonesia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Indonesia is a country in Southeast Asia. Capital: Jakarta. Population: approximately 277,000,000 people. Area: 1,904,569 km². Currency: Indonesian Rupiah (IDR). Official language(s): Indonesian. World's largest archipelago with over 17000 islands and fourth most populous country. Largest Muslim-majority country by population. Major producer of palm oil and rubber. Bali is one of the world's most popular tourist destinations."
+  },
+  {
+    "title": "Iran",
+    "source": "countries-database",
+    "url": "",
+    "content": "Iran is a country in Middle East. Capital: Tehran. Population: approximately 87,000,000 people. Area: 1,648,195 km². Currency: Iranian Rial (IRR). Official language(s): Persian (Farsi). Country in Western Asia and one of the world's oldest civilizations. Major oil and gas producer with world's second-largest natural gas reserves. Rich cultural heritage with Persian poetry, art, and architecture. Became Islamic Republic in 1979."
+  },
+  {
+    "title": "Iraq",
+    "source": "countries-database",
+    "url": "",
+    "content": "Iraq is a country in Middle East. Capital: Baghdad. Population: approximately 42,000,000 people. Area: 438,317 km². Currency: Iraqi Dinar (IQD). Official language(s): Arabic, Kurdish. Country in Western Asia. Home to ancient Mesopotamia, one of the world's earliest civilizations. World's fifth-largest proven oil reserves. Tigris and Euphrates rivers flow through the country."
+  },
+  {
+    "title": "Ireland",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ireland is a country in Europe. Capital: Dublin. Population: approximately 5,100,000 people. Area: 70,273 km². Currency: Euro (EUR). Official language(s): Irish, English. Island country in Northwestern Europe, known as the Emerald Isle. EU member since 1973. Strong technology sector hosting headquarters of many US tech companies. Irish culture has influenced millions through literature, music, and the diaspora."
+  },
+  {
+    "title": "Israel",
+    "source": "countries-database",
+    "url": "",
+    "content": "Israel is a country in Middle East. Capital: Jerusalem (disputed). Population: approximately 9,500,000 people. Area: 20,770 km². Currency: Israeli New Shekel (ILS). Official language(s): Hebrew, Arabic. Country in the Middle East on the Mediterranean Sea. Established in 1948 as the world's only Jewish-majority state. Jerusalem is sacred to Judaism, Christianity, and Islam. Highly developed economy known as the Start-Up Nation for its tech industry."
+  },
+  {
+    "title": "Italy",
+    "source": "countries-database",
+    "url": "",
+    "content": "Italy is a country in Europe. Capital: Rome. Population: approximately 60,000,000 people. Area: 301,340 km². Currency: Euro (EUR). Official language(s): Italian. Country in Southern Europe on the Italian Peninsula. Has the world's highest concentration of UNESCO World Heritage Sites. Famous for art, fashion, cuisine, and architecture. Home to Vatican City and San Marino. Won FIFA World Cup four times."
+  },
+  {
+    "title": "Japan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Japan is a country in East Asia. Capital: Tokyo. Population: approximately 125,000,000 people. Area: 377,975 km². Currency: Japanese Yen (JPY). Official language(s): Japanese. Island country in East Asia with four main islands and over 6800 smaller ones. Third-largest economy in the world. Known for technological innovation, anime, manga, sushi, and samurai culture. World's oldest monarchy. Mount Fuji is the highest peak. Hosted Summer Olympics in 1964 and 2020."
+  },
+  {
+    "title": "Jordan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Jordan is a country in Middle East. Capital: Amman. Population: approximately 10,300,000 people. Area: 89,342 km². Currency: Jordanian Dinar (JOD). Official language(s): Arabic. Country in the Middle East. Home to Petra, one of the New Seven Wonders of the World. The Dead Sea, the lowest point on Earth, borders Jordan. Constitutional monarchy known for relative stability in a turbulent region."
+  },
+  {
+    "title": "Kenya",
+    "source": "countries-database",
+    "url": "",
+    "content": "Kenya is a country in Africa. Capital: Nairobi. Population: approximately 55,000,000 people. Area: 580,367 km². Currency: Kenyan Shilling (KES). Official language(s): Swahili, English. Country in East Africa. Famous for wildlife safaris in the Masai Mara National Reserve. Mount Kenya is Africa's second-highest peak. Nairobi is known as Silicon Savannah for its tech sector. Renowned for world-class long-distance runners."
+  },
+  {
+    "title": "South Korea",
+    "source": "countries-database",
+    "url": "",
+    "content": "South Korea is a country in East Asia. Capital: Seoul. Population: approximately 51,700,000 people. Area: 100,210 km². Currency: South Korean Won (KRW). Official language(s): Korean. Country in East Asia on the southern part of the Korean Peninsula. Highly developed economy known as the Miracle on the Han River. Home to Samsung, LG, Hyundai, and Kia. Known for K-pop and K-dramas. Hosted Summer Olympics in 1988 and FIFA World Cup in 2002."
+  },
+  {
+    "title": "Mexico",
+    "source": "countries-database",
+    "url": "",
+    "content": "Mexico is a country in North America. Capital: Mexico City. Population: approximately 130,000,000 people. Area: 1,964,375 km². Currency: Mexican Peso (MXN). Official language(s): Spanish. World's 13th-largest country by area. Known for ancient Aztec and Maya civilizations including Teotihuacan and Chichen Itza. World's 15th-largest economy. Mexican cuisine is UNESCO Intangible Cultural Heritage. World's largest silver producer."
+  },
+  {
+    "title": "Morocco",
+    "source": "countries-database",
+    "url": "",
+    "content": "Morocco is a country in Africa. Capital: Rabat. Population: approximately 37,000,000 people. Area: 446,550 km². Currency: Moroccan Dirham (MAD). Official language(s): Arabic, Berber. Country in North Africa. Only African country with coastlines on both the Atlantic and Mediterranean. Casablanca is the largest city and economic capital. Major tourist destination famous for medinas, souks, and the Sahara Desert."
+  },
+  {
+    "title": "Netherlands",
+    "source": "countries-database",
+    "url": "",
+    "content": "Netherlands is a country in Europe. Capital: Amsterdam. Population: approximately 17,900,000 people. Area: 41,543 km². Currency: Euro (EUR). Official language(s): Dutch. Country in Northwestern Europe. About 26% lies below sea level maintained by dikes and water management. Famous for tulips, windmills, cycling, and Gouda cheese. Amsterdam is famous for canals and the Rijksmuseum and Van Gogh Museum."
+  },
+  {
+    "title": "New Zealand",
+    "source": "countries-database",
+    "url": "",
+    "content": "New Zealand is a country in Oceania. Capital: Wellington. Population: approximately 5,100,000 people. Area: 268,021 km². Currency: New Zealand Dollar (NZD). Official language(s): English, Maori. Island country in the southwestern Pacific Ocean. Famous for stunning landscapes including fjords, mountains, and beaches. First country to grant women the right to vote in 1893. Lord of the Rings films were shot here. Maori culture is an important part of national identity."
+  },
+  {
+    "title": "Nigeria",
+    "source": "countries-database",
+    "url": "",
+    "content": "Nigeria is a country in Africa. Capital: Abuja. Population: approximately 220,000,000 people. Area: 923,768 km². Currency: Nigerian Naira (NGN). Official language(s): English. Most populous country in Africa. Largest economy in Africa. Major oil producer. Has over 250 ethnic groups. Nollywood is the world's second-largest film producer by volume. Lagos is the largest city in Africa by population."
+  },
+  {
+    "title": "Norway",
+    "source": "countries-database",
+    "url": "",
+    "content": "Norway is a country in Europe. Capital: Oslo. Population: approximately 5,400,000 people. Area: 385,207 km². Currency: Norwegian Krone (NOK). Official language(s): Norwegian. Nordic country in Northern Europe. Famous for dramatic fjords, Northern Lights, and the Midnight Sun. One of the world's highest standards of living with a large sovereign wealth fund from oil revenues. Has won the most Winter Olympic medals of any country."
+  },
+  {
+    "title": "Pakistan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Pakistan is a country in South Asia. Capital: Islamabad. Population: approximately 231,000,000 people. Area: 881,913 km². Currency: Pakistani Rupee (PKR). Official language(s): Urdu, English. World's fifth most populous country. Created in 1947 from partition of British India. Has significant nuclear capabilities. Home to K2, the world's second-highest mountain. The Indus River civilization was one of the world's earliest."
+  },
+  {
+    "title": "Peru",
+    "source": "countries-database",
+    "url": "",
+    "content": "Peru is a country in South America. Capital: Lima. Population: approximately 33,000,000 people. Area: 1,285,216 km². Currency: Peruvian Sol (PEN). Official language(s): Spanish, Quechua, Aymara. Country in western South America. Home to Machu Picchu, one of the New Seven Wonders of the World. The Amazon River has its source in Peru. Major producer of gold, copper, and silver. Lima is considered a top culinary destination."
+  },
+  {
+    "title": "Philippines",
+    "source": "countries-database",
+    "url": "",
+    "content": "Philippines is a country in Southeast Asia. Capital: Manila. Population: approximately 115,000,000 people. Area: 300,000 km². Currency: Philippine Peso (PHP). Official language(s): Filipino, English. Archipelago of over 7600 islands in Southeast Asia. Has the world's largest Muslim-majority country. World's largest supplier of nurses. Frequently affected by typhoons and earthquakes. Cuisine blends Malay, Spanish, Chinese, and American influences."
+  },
+  {
+    "title": "Poland",
+    "source": "countries-database",
+    "url": "",
+    "content": "Poland is a country in Europe. Capital: Warsaw. Population: approximately 37,700,000 people. Area: 312,696 km². Currency: Polish Zloty (PLN). Official language(s): Polish. Country in Central Europe. EU member since 2004, NATO member since 1999. One of the fastest-growing economies in the EU. Instrumental in the fall of communism in Eastern Europe. Krakow and Auschwitz-Birkenau are UNESCO World Heritage Sites."
+  },
+  {
+    "title": "Portugal",
+    "source": "countries-database",
+    "url": "",
+    "content": "Portugal is a country in Europe. Capital: Lisbon. Population: approximately 10,300,000 people. Area: 92,212 km². Currency: Euro (EUR). Official language(s): Portuguese. Country in Southwestern Europe on the Iberian Peninsula. Also includes the Azores and Madeira archipelagos. Major maritime and colonial power in the 15th and 16th centuries. Portuguese is spoken by about 280 million people worldwide. Known for fado music and Port wine."
+  },
+  {
+    "title": "Romania",
+    "source": "countries-database",
+    "url": "",
+    "content": "Romania is a country in Europe. Capital: Bucharest. Population: approximately 19,000,000 people. Area: 238,397 km². Currency: Romanian Leu (RON). Official language(s): Romanian. Country in Southeast Europe. EU member since 2007, NATO member since 2004. Known for medieval castles including Bran Castle associated with the Dracula legend. The Danube Delta is a UNESCO World Heritage Site."
+  },
+  {
+    "title": "Russia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Russia is a country in Europe and Asia. Capital: Moscow. Population: approximately 144,000,000 people. Area: 17,098,242 km². Currency: Russian Ruble (RUB). Official language(s): Russian. World's largest country by area spanning Eastern Europe and Northern Asia. Permanent member of the UN Security Council. World's largest natural gas reserves. Lake Baikal contains about 20% of the world's fresh surface water. Trans-Siberian Railway is the world's longest at 9289 km."
+  },
+  {
+    "title": "Saudi Arabia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Saudi Arabia is a country in Middle East. Capital: Riyadh. Population: approximately 36,000,000 people. Area: 2,149,690 km². Currency: Saudi Riyal (SAR). Official language(s): Arabic. Occupies most of the Arabian Peninsula. World's second-largest proven oil reserves and largest oil exporter. Birthplace of Islam and home to Mecca and Medina. Vision 2030 initiative aims to diversify economy away from oil."
+  },
+  {
+    "title": "South Africa",
+    "source": "countries-database",
+    "url": "",
+    "content": "South Africa is a country in Africa. Capital: Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial). Population: approximately 60,000,000 people. Area: 1,219,090 km². Currency: South African Rand (ZAR). Official language(s): Zulu, Xhosa, Afrikaans, English. Country at the southern tip of Africa with 11 official languages. Largest economy in Africa by GDP per capita. Ended apartheid in 1994 when Nelson Mandela became the first democratically elected president. Hosted the FIFA World Cup in 2010."
+  },
+  {
+    "title": "Spain",
+    "source": "countries-database",
+    "url": "",
+    "content": "Spain is a country in Europe. Capital: Madrid. Population: approximately 47,500,000 people. Area: 505,990 km². Currency: Euro (EUR). Official language(s): Spanish. Country on the Iberian Peninsula in Southwestern Europe. Also includes Balearic Islands and Canary Islands. One of the world's most visited countries. Known for flamenco, bullfighting, tapas, and paella. Won FIFA World Cup in 2010 and UEFA European Championship three times."
+  },
+  {
+    "title": "Sweden",
+    "source": "countries-database",
+    "url": "",
+    "content": "Sweden is a country in Europe. Capital: Stockholm. Population: approximately 10,500,000 people. Area: 450,295 km². Currency: Swedish Krona (SEK). Official language(s): Swedish. Nordic country in Northern Europe. One of the world's highest standards of living. Home of ABBA, IKEA, H&M, Spotify, and Volvo. Hosts Nobel Prize ceremonies annually. Joined NATO in 2024. Has not been at war since 1814."
+  },
+  {
+    "title": "Switzerland",
+    "source": "countries-database",
+    "url": "",
+    "content": "Switzerland is a country in Europe. Capital: Bern. Population: approximately 8,700,000 people. Area: 41,285 km². Currency: Swiss Franc (CHF). Official language(s): German, French, Italian, Romansh. Landlocked country in Central Europe. Famous for Alps, precision watches, chocolate, cheese, and banking. Consistently ranked as one of the world's most competitive economies. Geneva hosts the UN and Red Cross. Neutral in international conflicts since 1815."
+  },
+  {
+    "title": "Thailand",
+    "source": "countries-database",
+    "url": "",
+    "content": "Thailand is a country in Southeast Asia. Capital: Bangkok. Population: approximately 72,000,000 people. Area: 513,120 km². Currency: Thai Baht (THB). Official language(s): Thai. Country in Southeast Asia. World's largest exporter of rice and natural rubber. Bangkok is one of the world's most visited cities. Has never been colonized by a European power. Known for Buddhist temples, tropical beaches, and cuisine. Constitutional monarchy."
+  },
+  {
+    "title": "Turkey",
+    "source": "countries-database",
+    "url": "",
+    "content": "Turkey is a country in Middle East and Europe. Capital: Ankara. Population: approximately 85,000,000 people. Area: 783,356 km². Currency: Turkish Lira (TRY). Official language(s): Turkish. Transcontinental country in Western Asia and Southeast Europe. Istanbul spans both Europe and Asia and is the largest city. NATO member and EU candidate. Home to numerous ancient civilizations and archaeological sites."
+  },
+  {
+    "title": "Ukraine",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ukraine is a country in Europe. Capital: Kyiv. Population: approximately 44,000,000 people. Area: 603,550 km². Currency: Ukrainian Hryvnia (UAH). Official language(s): Ukrainian. Largest country entirely within Europe. Known as the breadbasket of Europe due to vast fertile black soil. Has significant reserves of iron ore, coal, and manganese. Full-scale Russian invasion began in February 2022. Kyiv is one of the oldest cities in Eastern Europe."
+  },
+  {
+    "title": "United Arab Emirates",
+    "source": "countries-database",
+    "url": "",
+    "content": "United Arab Emirates is a country in Middle East. Capital: Abu Dhabi. Population: approximately 10,000,000 people. Area: 83,600 km². Currency: UAE Dirham (AED). Official language(s): Arabic. Federation of seven emirates in the Middle East. Dubai is home to the Burj Khalifa, the world's tallest building. Transformed from a pearl-fishing economy to one of the world's most cosmopolitan countries. Over 88% of the population are expatriates."
+  },
+  {
+    "title": "United Kingdom",
+    "source": "countries-database",
+    "url": "",
+    "content": "United Kingdom is a country in Europe. Capital: London. Population: approximately 67,500,000 people. Area: 242,495 km². Currency: British Pound Sterling (GBP). Official language(s): English. Island country consisting of England, Scotland, Wales, and Northern Ireland. Permanent member of the UN Security Council and nuclear power. London is a leading global financial center. Left the EU in 2020 (Brexit). Famous for the Beatles, Harry Potter, Shakespeare, and the BBC."
+  },
+  {
+    "title": "United States of America",
+    "source": "countries-database",
+    "url": "",
+    "content": "United States of America is a country in North America. Capital: Washington D.C.. Population: approximately 335,000,000 people. Area: 9,833,517 km². Currency: US Dollar (USD). Official language(s): English. Third-largest country in the world by area. Largest economy by nominal GDP. Founding member of NATO and the United Nations. Put humans on the Moon and leads in space exploration. Silicon Valley is the global center of technology innovation. Has won the most Olympic medals in history."
+  },
+  {
+    "title": "Venezuela",
+    "source": "countries-database",
+    "url": "",
+    "content": "Venezuela is a country in South America. Capital: Caracas. Population: approximately 28,000,000 people. Area: 916,445 km². Currency: Venezuelan Bolivar (VES). Official language(s): Spanish. Country on the northern coast of South America. Has the world's largest proven oil reserves. Angel Falls, world's highest uninterrupted waterfall at 979 meters, is located here. Has experienced severe economic and political crises since 2013."
+  },
+  {
+    "title": "Vietnam",
+    "source": "countries-database",
+    "url": "",
+    "content": "Vietnam is a country in Southeast Asia. Capital: Hanoi. Population: approximately 98,000,000 people. Area: 331,212 km². Currency: Vietnamese Dong (VND). Official language(s): Vietnamese. Country in Southeast Asia. One of the world's fastest-growing economies. Major producer and exporter of rice, coffee, and textiles. Reunified in 1975 after decades of conflict. Halong Bay with thousands of limestone islands is a UNESCO World Heritage Site."
+  },
+  {
+    "title": "Czechia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Czechia is a country in Europe. Capital: Prague. Population: approximately 10,900,000 people. Area: 78,866 km². Currency: Czech Koruna (CZK). Official language(s): Czech. Also known as Czech Republic. Landlocked country in Central Europe. Prague is one of the most visited cities in Europe. Famous for beer consumption per capita."
+  },
+  {
+    "title": "North Korea",
+    "source": "countries-database",
+    "url": "",
+    "content": "North Korea is a country in East Asia. Capital: Pyongyang. Population: approximately 26,000,000 people. Area: 120,538 km². Currency: North Korean Won (KPW). Official language(s): Korean. Country in East Asia on the northern part of the Korean Peninsula. Ruled by the Kim dynasty since 1948. One of the world's most isolated and authoritarian states. Has nuclear weapons capabilities. Divided from South Korea at the 38th parallel since 1945."
+  },
+  {
+    "title": "Ecuador",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ecuador is a country in South America. Capital: Quito. Population: approximately 18,000,000 people. Area: 283,561 km². Currency: US Dollar (USD). Official language(s): Spanish. Country in northwestern South America straddling the equator. Home to the Galapagos Islands, which inspired Charles Darwin's theory of evolution. Quito is the highest official capital city in the world. Major exporter of bananas, oil, and flowers."
+  },
+  {
+    "title": "Singapore",
+    "source": "countries-database",
+    "url": "",
+    "content": "Singapore is a country in Southeast Asia. Capital: Singapore. Population: approximately 5,900,000 people. Area: 728 km². Currency: Singapore Dollar (SGD). Official language(s): English, Mandarin, Malay, Tamil. City-state island country in Southeast Asia. One of the world's most prosperous countries and a leading financial center. Has one of the world's busiest ports. Known for its cleanliness, efficiency, and multicultural society. Ranked consistently among the world's easiest places to do business."
+  },
+  {
+    "title": "Malaysia",
+    "source": "countries-database",
+    "url": "",
+    "content": "Malaysia is a country in Southeast Asia. Capital: Kuala Lumpur. Population: approximately 33,000,000 people. Area: 329,847 km². Currency: Malaysian Ringgit (MYR). Official language(s): Malay. Country in Southeast Asia. The Petronas Towers in Kuala Lumpur were the world's tallest buildings from 1998 to 2004. Major producer of palm oil and rubber. Consists of Peninsular Malaysia and Malaysian Borneo. Known for diverse cuisine and multicultural society."
+  },
+  {
+    "title": "Myanmar",
+    "source": "countries-database",
+    "url": "",
+    "content": "Myanmar is a country in Southeast Asia. Capital: Naypyidaw. Population: approximately 54,000,000 people. Area: 676,578 km². Currency: Myanmar Kyat (MMK). Official language(s): Burmese. Country in Southeast Asia also known as Burma. Home to thousands of Buddhist temples including those in Bagan. Rich in natural resources including jade, rubies, and teak. Has experienced significant political instability including a military coup in 2021."
+  },
+  {
+    "title": "Nepal",
+    "source": "countries-database",
+    "url": "",
+    "content": "Nepal is a country in South Asia. Capital: Kathmandu. Population: approximately 30,000,000 people. Area: 147,181 km². Currency: Nepalese Rupee (NPR). Official language(s): Nepali. Landlocked country in South Asia. Home to eight of the world's ten tallest mountains including Mount Everest at 8849 meters. Birthplace of Siddhartha Gautama (Buddha). Known for trekking and mountaineering tourism. Only country in the world with a non-rectangular national flag."
+  },
+  {
+    "title": "Sri Lanka",
+    "source": "countries-database",
+    "url": "",
+    "content": "Sri Lanka is a country in South Asia. Capital: Sri Jayawardenepura Kotte (legislative), Colombo (commercial). Population: approximately 22,000,000 people. Area: 65,610 km². Currency: Sri Lankan Rupee (LKR). Official language(s): Sinhala, Tamil. Island country in South Asia in the Indian Ocean. Known as the Pearl of the Indian Ocean. World's largest exporter of Ceylon tea. Rich biodiversity with six UNESCO World Heritage Sites. Suffered a devastating civil war from 1983 to 2009."
+  },
+  {
+    "title": "Kazakhstan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Kazakhstan is a country in Central Asia. Capital: Astana. Population: approximately 19,000,000 people. Area: 2,724,900 km². Currency: Kazakhstani Tenge (KZT). Official language(s): Kazakh, Russian. Largest landlocked country in the world and ninth largest overall. Rich in oil, gas, and minerals. Has the world's first and largest operational space launch facility, the Baikonur Cosmodrome. The Aral Sea, once one of the world's four largest lakes, is located here."
+  },
+  {
+    "title": "Uzbekistan",
+    "source": "countries-database",
+    "url": "",
+    "content": "Uzbekistan is a country in Central Asia. Capital: Tashkent. Population: approximately 36,000,000 people. Area: 448,978 km². Currency: Uzbekistani Som (UZS). Official language(s): Uzbek. Doubly landlocked country in Central Asia. Home to Samarkand, one of the oldest and most historically important cities on the Silk Road. Major producer of cotton and gold. Has significant natural gas reserves."
+  },
+  {
+    "title": "Qatar",
+    "source": "countries-database",
+    "url": "",
+    "content": "Qatar is a country in Middle East. Capital: Doha. Population: approximately 2,900,000 people. Area: 11,586 km². Currency: Qatari Riyal (QAR). Official language(s): Arabic. Small peninsula country in the Middle East. Has the world's third-largest natural gas reserves. One of the highest GDP per capita in the world. Hosted the 2022 FIFA World Cup, the first in the Middle East. Home to the Al Jazeera media network and Qatar Airways."
+  },
+  {
+    "title": "Kuwait",
+    "source": "countries-database",
+    "url": "",
+    "content": "Kuwait is a country in Middle East. Capital: Kuwait City. Population: approximately 4,300,000 people. Area: 17,818 km². Currency: Kuwaiti Dinar (KWD). Official language(s): Arabic. Country in the Middle East on the Persian Gulf. Has the world's sixth-largest oil reserves. Kuwaiti Dinar is the world's highest-valued currency. Was invaded by Iraq in 1990 leading to the Gulf War."
+  },
+  {
+    "title": "Oman",
+    "source": "countries-database",
+    "url": "",
+    "content": "Oman is a country in Middle East. Capital: Muscat. Population: approximately 4,700,000 people. Area: 309,500 km². Currency: Omani Rial (OMR). Official language(s): Arabic. Country in the Middle East on the Arabian Peninsula. One of the oldest civilizations in the Middle East. Known for its diverse landscape including deserts, mountains, and coastlines. Major oil and gas producer. Sultan Qaboos ruled for nearly 50 years transforming the country."
+  },
+  {
+    "title": "Tanzania",
+    "source": "countries-database",
+    "url": "",
+    "content": "Tanzania is a country in Africa. Capital: Dodoma. Population: approximately 63,000,000 people. Area: 945,087 km². Currency: Tanzanian Shilling (TZS). Official language(s): Swahili, English. Country in East Africa. Home to Mount Kilimanjaro, Africa's highest peak at 5895 meters. Serengeti National Park hosts the world's largest animal migration. The island of Zanzibar is a major tourist destination. Also home to the Ngorongoro Crater."
+  },
+  {
+    "title": "Uganda",
+    "source": "countries-database",
+    "url": "",
+    "content": "Uganda is a country in Africa. Capital: Kampala. Population: approximately 48,000,000 people. Area: 241,038 km². Currency: Ugandan Shilling (UGX). Official language(s): English, Swahili. Landlocked country in East Africa known as the Pearl of Africa. Home to mountain gorillas in Bwindi Impenetrable Forest. Source of the Nile River is at Lake Victoria. Has significant freshwater resources. One of the youngest populations in the world."
+  },
+  {
+    "title": "Cameroon",
+    "source": "countries-database",
+    "url": "",
+    "content": "Cameroon is a country in Africa. Capital: Yaounde. Population: approximately 27,000,000 people. Area: 475,442 km². Currency: Central African CFA Franc (XAF). Official language(s): French, English. Country in Central Africa known as Africa in miniature due to its diverse landscapes and climates. Major oil producer. Has significant biodiversity including gorillas and forest elephants. One of only two bilingual francophone and anglophone countries in Africa."
+  },
+  {
+    "title": "Ivory Coast",
+    "source": "countries-database",
+    "url": "",
+    "content": "Ivory Coast is a country in Africa. Capital: Yamoussoukro. Population: approximately 27,000,000 people. Area: 322,463 km². Currency: West African CFA Franc (XOF). Official language(s): French. Country in West Africa also known as Cote d'Ivoire. World's largest producer of cocoa. Abidjan is the largest city and economic capital. Has the largest basilica in the world, the Basilica of Our Lady of Peace in Yamoussoukro."
+  },
+  {
+    "title": "Senegal",
+    "source": "countries-database",
+    "url": "",
+    "content": "Senegal is a country in Africa. Capital: Dakar. Population: approximately 17,000,000 people. Area: 196,722 km². Currency: West African CFA Franc (XOF). Official language(s): French. Country in West Africa on the Atlantic Ocean. One of Africa's most stable democracies. Dakar hosted the African Renaissance Monument and is a major port city. Famous for its music, Teranga (hospitality) culture, and wrestling. Pink Lake (Lac Rose) is a unique natural attraction."
+  },
+  {
+    "title": "Democratic Republic of Congo",
+    "source": "countries-database",
+    "url": "",
+    "content": "Democratic Republic of Congo is a country in Africa. Capital: Kinshasa. Population: approximately 100,000,000 people. Area: 2,344,858 km². Currency: Congolese Franc (CDF). Official language(s): French. Second-largest country in Africa and fourth most populous. Has the world's second-largest rainforest after the Amazon. Rich in minerals including cobalt, coltan, and diamonds. The Congo River is the world's deepest river. Has experienced prolonged conflict and instability."
+  },
+  {
+    "title": "Mozambique",
+    "source": "countries-database",
+    "url": "",
+    "content": "Mozambique is a country in Africa. Capital: Maputo. Population: approximately 33,000,000 people. Area: 801,590 km². Currency: Mozambican Metical (MZN). Official language(s): Portuguese. Country in Southeast Africa with a long Indian Ocean coastline. Has significant natural gas reserves discovered in recent years. Gorongosa National Park is one of Africa's most remarkable ecosystems. Was a Portuguese colony until 1975."
+  },
+  {
+    "title": "Zimbabwe",
+    "source": "countries-database",
+    "url": "",
+    "content": "Zimbabwe is a country in Africa. Capital: Harare. Population: approximately 15,000,000 people. Area: 390,757 km². Currency: Zimbabwean Dollar (ZWL). Official language(s): English, Shona, Ndebele. Landlocked country in Southern Africa. Home to Victoria Falls, one of the world's largest waterfalls shared with Zambia. Was formerly known as Rhodesia. Has the Great Zimbabwe ruins, a medieval city that gave the country its name. Experienced hyperinflation and economic crisis in the 2000s."
+  },
+  {
+    "title": "Guatemala",
+    "source": "countries-database",
+    "url": "",
+    "content": "Guatemala is a country in Central America. Capital: Guatemala City. Population: approximately 17,000,000 people. Area: 108,889 km². Currency: Guatemalan Quetzal (GTQ). Official language(s): Spanish. Country in Central America. Home to ancient Maya civilization ruins including Tikal. Most populous country in Central America. Has 37 volcanoes, many of which are still active. Rich in coffee, bananas, and sugar production."
+  }
+]

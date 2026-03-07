@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Source+Sans+3:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Lora';
+  --font-body: 'Source Sans 3';
+  --font-mono: 'JetBrains Mono';
+
+  --bg:        #f5f2ed;
+  --bg-card:   #ffffff;
+  --bg-hover:  #f0ece5;
+  --border:    #ddd8cf;
+  --border-light: #ede9e2;
+
+  --text-primary:   #1a1714;
+  --text-secondary: #5a5249;
+  --text-muted:     #8c857c;
+
+  --accent:       #2563eb;
+  --accent-light: #eff6ff;
+  --accent-border:#bfdbfe;
+
+  --db-color:     #15803d;
+  --db-light:     #f0fdf4;
+  --db-border:    #bbf7d0;
+
+  --groq-color:   #9333ea;
+  --groq-light:   #faf5ff;
+  --groq-border:  #e9d5ff;
+
+  --warn-color:   #d97706;
+  --warn-light:   #fffbeb;
+  --warn-border:  #fde68a;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { font-size: 17px; }
+
+body {
+  font-family: var(--font-body), 'Source Sans 3', Georgia, sans-serif;
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+.prose-answer p { margin-bottom: 0.75em; }
+.prose-answer p:last-child { margin-bottom: 0; }
+.prose-answer ul, .prose-answer ol { padding-left: 1.5em; margin-bottom: 0.75em; }
+.prose-answer li { margin-bottom: 0.25em; }
+.prose-answer strong { color: var(--text-primary); font-weight: 600; }
+.prose-answer code {
+  font-family: var(--font-mono);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
+  font-size: 0.88em;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50%       { opacity: 1;   transform: scale(1.2); }
+}
+.animate-fade-up { animation: fadeUp 0.35s ease both; }
+.typing-dot { animation: pulse-dot 1.2s ease infinite; }
+.typing-dot:nth-child(2) { animation-delay: 0.2s; }
+.typing-dot:nth-child(3) { animation-delay: 0.4s; }

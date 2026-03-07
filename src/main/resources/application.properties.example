@@ -1,0 +1,49 @@
+# Server
+server.port=8080
+spring.application.name=rag-backend
+
+# MongoDB Atlas
+# OPTION A: paste URI directly
+spring.data.mongodb.uri=PASTE_YOUR_MONGODB_URI_HERE
+# OPTION B: use env var
+# spring.data.mongodb.uri=${MONGODB_URI:mongodb://localhost:27017/ragdb}
+spring.data.mongodb.database=${MONGODB_DATABASE:ragdb}
+
+# -- Groq API (replaces Gemini for generation) ------------------
+# Get free key at: https://console.groq.com
+# OPTION A: paste key directly (simpler for dev)
+app.groq.api-key=PASTE_YOUR_GROQ_KEY_HERE
+# OPTION B: use env var (better for production)
+# app.groq.api-key=${GROQ_API_KEY}
+app.groq.base-url=https://api.groq.com/openai/v1
+app.groq.model=llama-3.3-70b-versatile
+app.groq.max-tokens=2048
+app.groq.temperature=0.2
+
+
+# Model downloads once (~80MB) to ~/.djl.ai/cache on first run
+app.embedding.model-name=sentence-transformers/all-MiniLM-L6-v2
+# -- Ollama Embeddings ------------------------------------------
+app.ollama.base-url=http://localhost:11434
+app.ollama.embedding-model=nomic-embed-text
+
+app.embedding.dimensions=768
+
+# -- MongoDB Vector Search ---------------------------------------
+app.mongodb.vector.collection=document_embeddings
+app.mongodb.vector.index-name=vector_index
+app.mongodb.vector.dimensions=768
+app.mongodb.vector.num-candidates=150
+app.mongodb.vector.top-k=5
+
+# -- RAG Config -------------------------------------------------
+app.rag.chunk-size=1500
+app.rag.chunk-overlap=200
+app.rag.max-context-docs=5
+app.rag.use-web-search=false
+
+# -- CORS -------------------------------------------------------
+app.cors.allowed-origins=${CORS_ORIGINS:http://localhost:3000}
+
+# Logging
+logging.level.com.example.rag=DEBUG
